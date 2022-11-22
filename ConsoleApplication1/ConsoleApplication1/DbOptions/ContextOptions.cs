@@ -8,6 +8,6 @@ namespace ConsoleApplication1.DbOptions
 {
     public class ContextOptions
     {
-        public int Option1 { get; set; }
+        public int Option1Fix { get; set; }
     }
 }
