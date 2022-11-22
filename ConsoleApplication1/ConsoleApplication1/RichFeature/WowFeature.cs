@@ -8,6 +8,6 @@ namespace ConsoleApplication1.RichFeature
 {
     public class WowFeature
     {
-        public int MyProperty { get; set; }
+        public int FixedProperty { get; set; }
     }
 }
