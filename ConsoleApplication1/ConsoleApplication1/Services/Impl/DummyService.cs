@@ -8,7 +8,7 @@ namespace ConsoleApplication1.Services.Impl
 {
     public class DummyService
     {
-        public void Insert()
+        public void InsertDataFixed()
         {
 
         }
